@@ -98,8 +98,7 @@ If you find a bug or have an idea for a feature, feel free to open an issue or s
 
 ## License
 
-This project is open source. Add a license to the repository if you intend to define specific terms for using, modifying, or distributing the project.
-
+This project is open source.
 ---
 
 **Kontrolled Browser**
